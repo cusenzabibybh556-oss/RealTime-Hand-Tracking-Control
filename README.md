@@ -56,7 +56,7 @@ Note: This project relies on the OpenMMLab framework. Ensure mmcv, mmdet, and mm
 2. Download Model Weights
 Please download the pre-trained weights and place them in the weights/ directory. Refer to [weights/README.md](weights/README.md) for download links.
 
-3.Hardware Configuration
+3. Hardware Configuration
 Update the SERIAL_PORT variable in [configs/settings.py](configs/settings.py) to match your local setup
 
 4. Run the System
