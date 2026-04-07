@@ -13,11 +13,7 @@ Bridging the gap between raw computer vision outputs and physical hardware actua
 
 ### 🎥 System Demo
 
-<div align="center">
-  <video src="https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/raw/main/docs/demo_test.mp4" width="100%" controls muted autoplay loop>
-    Your browser does not support the video tag.
-  </video>
-</div>
+![System Demo](https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/raw/main/docs/demo_test.mp4)
 
 ## Core Methodologies & Optimizations
 
