@@ -14,7 +14,7 @@ Bridging the gap between raw computer vision outputs and physical hardware actua
 ## Demo
 
 <div align="center">
-  <img src="docs/demo.gif" alt="System Demo" width="600"/>
+  <img src="docs/demo.mp4" alt="System Demo" width="600"/>
   <p><i>Real-time synchronization between human hand and Inspire robotic hand.</i></p>
 </div>
 
