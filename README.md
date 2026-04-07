@@ -12,9 +12,8 @@ This repository implements a robust, real-time teleoperation system for a roboti
 Bridging the gap between raw computer vision outputs and physical hardware actuation is a critical challenge in Embodied AI. Raw 2D keypoint estimations often suffer from spatial variance and high-frequency noise, which can cause severe motor oscillation and hardware damage. This project addresses these issues by designing a customized **Perception-to-Actuation Pipeline** that ensures smooth, safe, and highly responsive robotic control.
 
 ## Demo
-
 <div align="center">
-  <video src="https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/raw/refs/heads/main/docs/demo.mp4" width="600" controls muted autoplay loop>
+  <video src="https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/raw/refs/heads/main/docs/demo.mp4" width="700" controls muted autoplay loop>
     Your browser does not support the video tag.
   </video>
 </div>
