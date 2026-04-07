@@ -15,7 +15,7 @@ Bridging the gap between raw computer vision outputs and physical hardware actua
 
 ### 🎥 系统演示 (System Demo)
 
-[![Watch the video](https://img.shields.io/badge/▶_Watch-Video_Demo-blue?style=for-the-badge&logo=youtube)](https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/blob/main/docs/demo_test.mp4)
+[![Watch the video](https://img.shields.io/badge/▶_Watch-Video_Demo-blue?style=for-the-badge&logo=youtube)](https://github.com/cusenzabibybh556-oss/RealTime-Hand-Tracking-Control/blob/main/docs/demo.mp4)
 
 > 💡 **提示**：点击上方蓝色按钮即可直接在 GitHub 内置播放器中查看演示视频。
 
