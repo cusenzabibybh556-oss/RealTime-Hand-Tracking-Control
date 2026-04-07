@@ -14,8 +14,9 @@ Bridging the gap between raw computer vision outputs and physical hardware actua
 ## Demo
 
 <div align="center">
-  <img src="docs/demo.mp4" alt="System Demo" width="600"/>
-  <p><i>Real-time synchronization between human hand and Inspire robotic hand.</i></p>
+  <video src="docs/demo.mp4" width="600" controls muted autoplay loop>
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## Core Methodologies & Optimizations
