@@ -14,7 +14,7 @@ Bridging the gap between raw computer vision outputs and physical hardware actua
 ### 🎥 System Demo
 
 <div align="center">
-  <img src="./docs/demo.gif" width="100%">
+  <img src="./docs/demo.gif" width="80%">
 </div>
 
 ## Core Methodologies & Optimizations
